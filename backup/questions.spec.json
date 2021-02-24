@@ -1,7 +1,7 @@
 {
     "versions": {
         "1": {
-            "linkFormat": "{name}/{version}/{questions}/{auth}/{key}",
+            "linkFormat": "backup/{name}/{version}/{questions}/{auth}/{key}",
             "auth": {
                 "0": "6pin",
                 "1": "pass",
