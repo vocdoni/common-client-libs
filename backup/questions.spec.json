@@ -1,7 +1,7 @@
 {
     "versions": {
         "1": {
-            "linkFormat": "backup/{name}/{version}/{questions}/{auth}/{key}",
+            "linkFormat": "backup/{b64-encoded-serialized-backup-link}",
             "auth": {
                 "0": "6pin",
                 "1": "pass",
