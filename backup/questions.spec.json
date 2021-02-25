@@ -1,7 +1,7 @@
 {
     "versions": {
         "1": {
-            "linkFormat": "recovery/{b64-encoded-serialized-backup-link}",
+            "linkFormat": "recovery/{alias}/{date}/{encoded-link}",
             "auth": {
                 "0": "6pin",
                 "1": "pass",
