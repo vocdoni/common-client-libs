@@ -14,31 +14,17 @@
                 "2": "nameOfYourFirstBoss",
                 "3": "nameOfTheStreetYouLivedOnAsAChild",
                 "4": "nameOfYourFirstStuffedToy",
-                "5": "yourChildhoodNickname",
-                "6": "firstNameOfYourFavoriteTeacherAsAKid",
-                "7": "yourFavoriteDessert",
-                "8": "firstNameOfYourDrivingInstructor",
-                "9": "nameOfThePersonYouFirstKissed",
-                "10": "thePhoneNumberYouRememberMostFromYourChildhood",
-                "11": "yourLeastFavoriteMovie",
-                "12": "theFirstCityYouVisitedOutsideYourCountry",
-                "13": "yourFavoriteBook",
-                "14": "yourFavoritePlaceToVisitAsAChild",
-                "15": "theBrandAndModelOfYourFirstCar"
+                "5": "firstNameOfYourFavoriteTeacherAsAKid",
+                "6": "firstNameOfYourDrivingInstructor",
+                "7": "nameOfThePersonYouFirstKissed",
+                "8": "yourChildhoodNickname"
             },
             "active": [
                 4,
                 5,
                 6,
                 7,
-                8,
-                9,
-                10,
-                11,
-                12,
-                13,
-                14,
-                15
+                8
             ]
         },
         "2": {}
