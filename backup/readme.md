@@ -1,8 +1,11 @@
 ## Translation guide
 
+The translation files **should never lose keys**, otherwise people trying to recover old backups won't see the proper translations (instead, they would see the keys i.e. `STUFFED_TOY`).
+
+### Translations upgrade from weblate
+
 First, set up the weblate remote repo:
 `git remote add weblate https://hosted.weblate.org/git/vocdoni/backup-questions/`
-
 
 The translation flow is an iterative loop that looks like:
 - Lock the weblate repository
@@ -14,7 +17,7 @@ The translation flow is an iterative loop that looks like:
 - `git push origin main`    (update the GitHub branch)
 - `git checkout i18n`
 - `git merge main`          (integrate the latest code into i18n)
-- Manually update new translation keys 
+- Manually update new translation keys
 <!-- TODO use lang-parse script to parse translation keys -->
 - `git add backup/i18n/*`   (stage the language files for commit)
 - `git commit -m "Updated strings"`
