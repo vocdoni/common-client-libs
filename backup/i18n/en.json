@@ -1,11 +1,7 @@
 {
-    "nameOfYourFirstDog": "Name of your first dog",
-    "yourFavoriteAnimationMovie": "Your favorite animation movie",
-    "nameOfYourFirstBoss": "Name of your first boss",
-    "nameOfTheStreetYouLivedOnAsAChild": "Name of the street you lived on as a child",
-    "nameOfYourFirstStuffedToy": "Name of your first stuffed toy",
-    "firstNameOfYourFavoriteTeacherAsAKid": "First name of your favorite teacher as a kid",
-    "firstNameOfYourDrivingInstructor": "First name of your driving instructor",
-    "nameOfThePersonYouFirstKissed": "Name of the person you first kissed",
-    "yourChildhoodNickname": "Your childhood nickname"
+    "STUFFED_TOY": "Name of your first stuffed toy",
+    "FAVORITE_TEACHER": "First name of your favorite teacher as a kid",
+    "DRIVING_INSTRUCTOR": "First name of your driving instructor",
+    "FIRST_KISSED": "Name of the person you first kissed",
+    "CHILDHOOD_NICKNAME": "Your childhood nickname"
 }
